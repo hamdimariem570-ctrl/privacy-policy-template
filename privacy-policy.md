@@ -1,37 +1,50 @@
-# Privacy Policy
+Privacy Policy for Riffly Music
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+Effective Date: August 27, 2025
+Email Contact: hamdimariem570@gmail.com
 
+1. Introduction
 
-## Collection of Routine Information
+Welcome to Riffly Music!
+Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our offline music player app.
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+2. Data Collection
 
+Riffly Music does NOT collect, store, or share any personal data from users. The app operates entirely offline and does not require any user registration, login, or internet connection to function.
 
-## Cookies
+We do not collect:
 
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+Personal information (name, email, phone number, etc.)
 
+Device identifiers or location data
 
-## Advertisement and Other Third Parties
+Usage statistics or analytics
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Media or content uploaded by the user
 
+3. Permissions Used
 
-## Links to Third Party Websites
+The app may request the following permissions to provide core functionality:
 
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+Storage Access: To scan and play your locally stored music files.
 
+Audio Settings: To enable features such as equalizer control.
 
-## Security
+These permissions are strictly used for the music playback features and are not used to collect or transmit any data.
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+4. Third-Party Services
 
+Riffly Music does not integrate any third-party services, such as analytics, ads, or cloud storage. Your data remains entirely on your device.
 
-## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
+5. Children's Privacy
 
+We do not knowingly collect data from children under the age of 13. As the app does not collect any data, it is safe for use by all age groups.
 
-## Contact Information
+6. Changes to This Policy
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+We may update this Privacy Policy from time to time. If any changes are made, the updated policy will be available in the app or through an official communication channel.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, you can contact us at:
+📧 hamdimariem570@gmail.com
